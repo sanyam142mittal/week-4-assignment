@@ -4,6 +4,8 @@ run_analysis.R
 
 This script works on Samsung Human Activity Recognition data to create a tidy data set
 
+This script just processes the mean and std fields of source data set
+
 It merges the test and training data and then assigns the labels to data sets
 
 It then averages the data set for each group on activity and subject
